@@ -1,0 +1,12 @@
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\bin\Debug\net7.0\twobirds.deps.json
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\bin\Debug\net7.0\twobirds.dll
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\bin\Debug\net7.0\twobirds.pdb
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.csproj.AssemblyReference.cache
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.AssemblyInfoInputs.cache
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.AssemblyInfo.cs
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.csproj.CoreCompileInputs.cache
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.dll
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\refint\twobirds.dll
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\twobirds.pdb
+C:\Users\Saul Goodman\Documents\GitHub\twobirds\twobirds\obj\Debug\net7.0\ref\twobirds.dll
