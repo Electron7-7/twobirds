@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Class1.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="copy /Y &quot;$(TargetPath)&quot; &quot;$(SolutionPath)\Builds\&quot;&#xD;&#xA;copy /Y &quot;$(TargetPath)&quot; &quot;C:\Users\Saul Goodman\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\custom_mod\BepInEx\plugins\Two-Birds\&quot;" />
+  </Target>
+
+</Project>
